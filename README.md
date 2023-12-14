@@ -20,4 +20,4 @@
 ## Установка и запуск
 
 1. Склонируйте репозиторий:
-   git clone 
+      git clone https://github.com/ShakirKadirov/OneLab.git 
