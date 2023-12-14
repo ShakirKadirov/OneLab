@@ -42,8 +42,5 @@ class FragmentActivity : AppCompatActivity() {
             }
         }
     }
-//    fun onClickButtonBack(view: View){
-//        val intent = Intent(this,SecondActivity::class.java)
-//        startActivity(intent)
-//    }
+
 }
