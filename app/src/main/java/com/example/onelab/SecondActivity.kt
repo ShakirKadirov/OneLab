@@ -83,4 +83,9 @@ class SecondActivity : AppCompatActivity() {
         val intent = Intent(this, MainActivity::class.java)
         startActivity(intent)
     }
+
+    fun onClickButtontoFrg(view: View){
+        val intent = Intent(this, FragmentActivity::class.java)
+        startActivity(intent)
+    }
 }
