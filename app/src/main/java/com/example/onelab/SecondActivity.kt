@@ -1,10 +1,12 @@
 package com.example.onelab
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.content.res.Configuration
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import android.view.View
 import android.widget.TextView
 
 class SecondActivity : AppCompatActivity() {
@@ -71,5 +73,14 @@ class SecondActivity : AppCompatActivity() {
     override fun onDestroy() {
         super.onDestroy()
         Log.d("MainActivity", "onDestroy")
+    }
+
+
+
+    // Buttons
+
+    fun onClickButtontoMain(view: View){
+        val intent = Intent(this, MainActivity::class.java)
+        startActivity(intent)
     }
 }

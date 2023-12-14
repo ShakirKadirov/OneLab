@@ -19,4 +19,28 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="HardcodedText" />
 
+    <Button
+        android:id="@+id/btn_main_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:text="MainActivity"
+        android:onClick="onClickButtontoMain"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/counterTextView"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/btn_second_frg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FragmetActivity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.739"
+        app:layout_constraintStart_toEndOf="@+id/btn_main_second"
+        app:layout_constraintTop_toBottomOf="@+id/counterTextView"
+        tools:ignore="HardcodedText" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
