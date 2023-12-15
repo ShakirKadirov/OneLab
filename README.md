@@ -33,7 +33,7 @@
 <img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/ea508d21-3de4-4b2e-be41-94be4e9641c5" width="50%">
 
 ### FragemtActivity Fragment2
-![Fragmet2](https://github.com/ShakirKadirov/OneLab/assets/138371102/d30204e8-bc82-4dff-9a4e-c2c2d2d96316)
+<img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/d30204e8-bc82-4dff-9a4e-c2c2d2d96316" width="50%">
 
 
 
