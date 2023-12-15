@@ -20,4 +20,9 @@
 ## Установка и запуск
 
 1. Склонируйте репозиторий:
-      git clone https://github.com/ShakirKadirov/OneLab.git 
+      git clone https://github.com/ShakirKadirov/OneLab.git
+
+### Screenshots
+![Screenshot1](screenshots/![MainActivity](https://github.com/ShakirKadirov/OneLab/assets/138371102/4b72df41-c4d9-408e-8a95-d1c5e0a46845)
+)
+
