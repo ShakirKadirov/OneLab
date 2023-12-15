@@ -24,7 +24,7 @@
 
 ### Screenshots
 <img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/670d6702-853c-4110-894b-fcbd441d745f" width="50%">
-![SecondActivity](https://github.com/ShakirKadirov/OneLab/assets/138371102/36460468-3b5f-4468-8291-d36434f02d2c){width=50%}
+<img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/36460468-3b5f-4468-8291-d36434f02d2c" width="50%">
 
 
 
