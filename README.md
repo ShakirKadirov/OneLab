@@ -23,8 +23,20 @@
       git clone https://github.com/ShakirKadirov/OneLab.git
 
 ### Screenshots
+### MainActivity
 <img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/670d6702-853c-4110-894b-fcbd441d745f" width="50%">
+
+### SecondActivity
 <img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/36460468-3b5f-4468-8291-d36434f02d2c" width="50%">
+
+### FragemtActivity Fragment1
+<img src="https://github.com/ShakirKadirov/OneLab/assets/138371102/ea508d21-3de4-4b2e-be41-94be4e9641c5" width="50%">
+
+### FragemtActivity Fragment2
+![Fragmet2](https://github.com/ShakirKadirov/OneLab/assets/138371102/d30204e8-bc82-4dff-9a4e-c2c2d2d96316)
+
+
+
 
 
 
